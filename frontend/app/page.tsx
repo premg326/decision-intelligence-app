@@ -25,7 +25,7 @@ import Graph from "../components/Graph";
 
 const API =
   process.env.NEXT_PUBLIC_API_URL?.replace(/\/$/, "") ||
-  "http://localhost:8000";
+  "https://intelligence-backend-fh79.onrender.com";
 
 const STORAGE_KEY = "shadow-session-v4";
 const LEGACY_STORAGE_KEYS = ["shadow-session-v3", "shadow-session-v2"];
