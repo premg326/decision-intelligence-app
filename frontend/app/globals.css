@@ -1,0 +1,5 @@
+@import "tailwindcss";
+:root{--bg:#06080d;--panel:#0d121a;--line:#202a38;--muted:#8190a4;--text:#f5f7fb;--accent:#7d61ff;--cyan:#36d8f2;--good:#45e4a0;--danger:#ff6177}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif}
+.gridbg{background-image:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);background-size:32px 32px}
+.panel{background:rgba(13,18,26,.9);border:1px solid var(--line);box-shadow:0 20px 70px #0005}.btn{border:1px solid #303b4b;background:#141b26;border-radius:11px;padding:10px 14px}.btn:hover{background:#1a2330}.primary{background:linear-gradient(135deg,#8066ff,#553ad5);border-color:#947fff}.pill{border:1px solid #2a3544;border-radius:999px;background:#111822;padding:5px 9px}.react-flow__background{background:#0b1017}.react-flow__controls{background:#111822!important;border:1px solid #273242!important}.react-flow__controls button{background:#111822!important;color:white!important;border-color:#273242!important}
