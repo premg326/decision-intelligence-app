@@ -10,10 +10,10 @@ Instead of simply generating a recommendation, SHADOW models a decision as a dyn
 
 ## 🚀 What is SHADOW?
 
-Real-world decisions rarely have a single consequence.
-
 🌐 Live Demo:
- https://decision-intelligence-riaf5wa1u-premg326s-projects.vercel.app/
+ https://decision-intelligence-riaf5wa1u-premg326s-projects.vercel.app/ 
+
+Real-world decisions rarely have a single consequence.
 
 A decision such as:
 
