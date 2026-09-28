@@ -17,7 +17,7 @@ Real-world decisions rarely have a single consequence.
 
 A decision such as:
 
-> "Should I open a coffee shop near a college campus?"
+> "Should I open a coffee shop near a college campus ?"
 
 can affect:
 
@@ -31,7 +31,7 @@ can affect:
 - Long-term profitability
 - Risk
 
-SHADOW converts this kind of natural-language scenario into a structured decision model.
+SHADOW converts this kind of natural-language scenario into a well-structured decision model.
 
 ### Core Pipeline
 
