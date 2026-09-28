@@ -12,6 +12,9 @@ Instead of simply generating a recommendation, SHADOW models a decision as a dyn
 
 Real-world decisions rarely have a single consequence.
 
+🌐 Live Demo:
+ https://decision-intelligence-riaf5wa1u-premg326s-projects.vercel.app/
+
 A decision such as:
 
 > "Should I open a coffee shop near a college campus?"
@@ -309,7 +312,6 @@ decision-intelligence-app/
 │
 └── README.md
 
-Note: .env contains secrets and should never be committed to GitHub. Use .env.example for required variable names.
 
 🔌 API
 
